@@ -1,0 +1,14 @@
+{
+  "name": "color-component",
+  "repo": "component/color",
+  "description": "RGBA / HSLA color manipulation",
+  "version": "0.0.1",
+  "keywords": ["color", "rgba", "hsla"],
+  "component": {
+    "scripts": {
+      "color/index.js": "index.js",
+      "color/RGBA.js": "RGBA.js",
+      "color/HSLA.js": "HSLA.js"
+    }
+  }
+}
